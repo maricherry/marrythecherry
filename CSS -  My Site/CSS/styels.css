@@ -1,0 +1,136 @@
+body {
+  background-color: #faf4ff;
+  margin: 0;
+  text-align: center;
+  font-family: 'Homemade Apple', cursive;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.62rem;
+  color: #f0dd92;
+  line-height: normal;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #f0dd92;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffc5;
+}
+
+.heer {
+  border-style: none;
+  border-bottom: none;
+  border-top-style: dotted;
+  border-color: #2b580c;
+  border-width: thick;
+  width: 15%;
+  margin: 100px auto;
+}
+
+.contact-message{
+
+  width: 40%;
+  margin:100px auto 60px;
+
+
+}
+
+
+p {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1rem;
+  color: #856c8b;
+  line-height: 3;
+}
+
+a {
+  font-family: 'Montserrat', sans-serif;
+margin: 10px 20px;
+text-decoration: none;
+}
+
+a:hover{
+
+  color: #c2e8ce;
+}
+div {
+  background-color: #e1ccec;
+
+}
+
+.top-container {
+  background-color: #c9b6e4;
+  position: relative;
+  padding-top: 100px;
+  padding-bottom: 25px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.animeted-me2 {
+  height: 150px;
+}
+
+.nf {
+  height: 250px;
+  width: 250px;
+}
+
+.half {
+  width: 15%;
+  float: left;
+  margin-right: 30px
+}
+
+.watching {
+  width: 35%;
+  float: right;
+  margin-left: 30px
+}
+
+.footer-link {
+  color: #ffffc5;
+;
+
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.last {
+  color: #f5fcc1;
+  font-size: 0.75rem;
+  padding: 20px;
+}
+
+.bottom-container {
+  background-color: #c295d8;
+  padding: 50px 0 20px
+
+}
+
+.middle-container {
+  padding-top: 25px;
+}
